@@ -1,0 +1,59 @@
+* Datatypes
+* Types of Datatypes
+
+
+
+=> What is Datatypes in pyhton:  "Datatypes indicates the Types of information", 
+The types represents a types of value that determines which operation can be performed per data.
+
+for Example: numeric, non numeric or boolean data are the most commonly used Datatypes.
+
+Below are some Datatypes in python:
+1). numeric types-(integer, float, complex)
+2). Text types-(string)
+3). boolean types-(true,false)
+4). Sequence types-(list, tuple, range)
+.............................................................................................................
+
+=> Types of Datatypes
+
+Built-in Data Types
+
+Python has the following data types built-in by default, in these categories:
+
+Text Type:	    str
+Numeric Types:	    int, float, complex
+Sequence Types:    list, tuple, range
+Mapping Type:	    dict
+Set Types:	    set, frozenset
+Boolean Type:	    bool
+Binary Types:	    bytes, bytearray, memoryview
+
+
+Python Data Structure:
+1). Primitive                      2). Non-Primitive
+     * float                           a) Built-in   b) user-defined
+     *integer                              *list         *stack
+     *string                               *tuple        *Queue 
+     *Boolean                              *dictionary   *lined list
+                                           *set          *tree
+...................................................................................................................
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
